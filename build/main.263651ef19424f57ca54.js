@@ -16,7 +16,7 @@
   \**********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _test__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./test */ \"./src/test.js\");\n\r\n\r\nconsole.log(\"HELLO WORLD1\");\r\nconsole.log((0,_test__WEBPACK_IMPORTED_MODULE_0__.calc)(5, 51));\r\n\n\n//# sourceURL=webpack://homework11.1/./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _test__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./test */ \"./src/test.js\");\n\n\nconsole.log(\"HELLO WORLD1\");\nconsole.log((0,_test__WEBPACK_IMPORTED_MODULE_0__.calc)(5, 51));\n\n\n//# sourceURL=webpack://homework11.1/./src/index.js?");
 
 /***/ }),
 
@@ -26,7 +26,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _tes
   \*********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   calc: () => (/* binding */ calc)\n/* harmony export */ });\nfunction calc(a, b) {\r\n  return a + b;\r\n}\r\n\n\n//# sourceURL=webpack://homework11.1/./src/test.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   calc: () => (/* binding */ calc)\n/* harmony export */ });\nfunction calc(a, b) {\n  return a + b;\n}\n\n\n//# sourceURL=webpack://homework11.1/./src/test.js?");
 
 /***/ })
 
